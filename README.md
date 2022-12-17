@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjchriiph
 - 👀 I’m interested in Web Developement & Data Science;
-- 🌱 I’m currently learning JavaScript & Python ;
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on major projects to gain experience;
 - 📫 How to reach me : jeanroosjehu@gmail.com.
 
